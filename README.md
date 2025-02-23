@@ -60,7 +60,7 @@ Tree-based ensemble models like **Random Forest** and **XGBoost** outperform oth
 ---
 
 ## 🖋 **Author**  
-👨‍💻 *[Your Name Here]*  
+👨‍💻 * Muhammad khizer zakir*  
 
 📬 *Feel free to contribute or open issues for discussions!*  
 
